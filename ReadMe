@@ -1,0 +1,4 @@
+1. User required_once
+2. create composer.json
+3. rund command composer self-update
+4. rund command composer dump-autoload -o
